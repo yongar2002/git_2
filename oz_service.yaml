@@ -2,7 +2,11 @@ team: oz_service
 
 leader: 희은
 
+<<<<<<< HEAD
 coach: 영조
+=======
+coach: 지성
+>>>>>>> 17f2744 (sevic팀 변경)
 
 member:
   - 세형
