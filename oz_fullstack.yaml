@@ -2,10 +2,10 @@ team: oz_fullstack
 
 leader: 성훈
 
-coach: 민혁
+coach: 서울
 
 member:
-- 남욱
-- 다경
-- 정훈
-- 영철
+  - 남욱
+  - 다경
+  - 정훈
+  - 영철
